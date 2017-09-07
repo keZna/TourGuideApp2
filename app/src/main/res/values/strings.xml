@@ -28,6 +28,62 @@
                           Restaurant
     </string>
 
+    
+    <string name="eiffel">
+                          The Eiffel Tower \(French: tour Eiffel, pronounced About this sound listen\) is a wrought iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.
+                          Constructed from 1887–89 as the entrance to the 1889 World\'s Fair, it was initially criticized by some of France\'s leading artists and intellectuals for its design, but it has become a global cultural icon of France and one of the most recognisable
+                          structures in the world. The Eiffel Tower is the most-visited paid monument in the world; 6.91 million people ascended it in 2015.
+                          The tower is 324 metres \(1,063 ft) tall, about the same height as an 81-storey building, and the tallest structure in Paris. Its base is square, measuring 125 metres \(410 ft\) on each side. During its construction, the Eiffel Tower surpassed the
+                          Washington Monument to become the tallest man-made structure in the world, a title it held for 41 years until the Chrysler Building in New York City was finished in 1930. Due to the addition of a broadcasting aerial at the top of the tower
+                          in 1957, it is now taller than the Chrysler Building by 5.2 metres \(17 ft\). Excluding transmitters, the Eiffel Tower is the second-tallest structure in France after the Millau Viaduct.
+                          The tower has three levels for visitors, with restaurants on the first and second levels. The top level\'s upper platform is 276 m \(906 ft\) above the ground – the highest observation deck accessible to the public in the European Union.
+                          Tickets can be purchased to ascend by stairs or lift \(elevator\) to the first and second levels. The climb from ground level to the first level is over 300 steps, as is the climb from the first level to the second. Although there is a staircase to the top level, it is usually accessible only by lift.
+    </string>
+
+    <string name="louvre">
+                         Louvre Museum, French Musée du Louvre, official name Great Louvre, French Grand Louvre, national museum and art gallery of France, housed in part of a large palace in Paris that was built on the right-bank site of the 12th-century fortress
+                         of Philip Augustus. In 1546 Francis I, who was a great art collector, had this old castle razed and began to build on its site another royal residence, the Louvre, which was added to by almost every subsequent French monarch. Under Francis I,
+                         only a small portion of the present Louvre was completed, under the architect Pierre Lescot. This original section is today the southwestern part of the Cour Carrée. In the 17th century, major additions were made to the building complex by
+                         Louis XIII and Louis XIV. Cardinal de Richelieu, the chief minister of Louis XIII, acquired great works of art for the king. Louis XIV and his minister, Cardinal Mazarin, acquired outstanding art collections, including that of Charles I of England.
+                         A committee consisting of the architects Claude Perrault and Louis Le Vau and the decorator and painter Charles Le Brun planned that part of the Louvre which is known as the Colonnade.
+    </string>
+
+    <string name="cape">
+                         Cape Town glistens at the southern toe of the African continent. Tourist brochure-views at Blaauwberg Beach and Kirstenbosch National Botanical Gardens are within easy driving distance of The Mother City.
+                         The Cape of Good Hope Nature Reserve provides sweeping sea vistas, hiking trails and wildlife encounters. On a more somber note, travellers can visit Robben Island, the prison where Nelson Mandela was held for 27 years.
+    </string>
+    
+    <string name="johannesburg">
+                         Johannesburg also known as Jozi, Joburg and Egoli is the largest city in South Africa and is one of the 50 largest urban areas in the world. It is the provincial largest city in Gauteng, which is the wealthiest province in South Africa.
+                         While Johannesburg is not one of South Africa\'s three capital cities, it is the seat of the Constitutional Court. The city is located in the mineral-rich Witwatersrand range of hills and is the centre of large-scale gold and diamond trade.
+                         In 2011, the population of the city of Johannesburg was 4,434,827, making it the largest city in South Africa. In the same year, the population of Greater Johannesburg Metropolitan Area was 7,860,781. Some view the area surrounding the city
+                         of Johannesburg yet more broadly than the metropolitan area, adding Ekurhuleni, West Rand and Lenasia, that larger area had a population of 8,434,292 in 2011. The land area of the municipal city \(1,645 km2 \(635 sq mi\)\) is large in comparison
+                         with those of other major cities, resulting in a moderate population density of 2,364/km2 \(6,120/sq mi\).
+                         The city was established in 1779 following the discovery of gold on what had been a farm. The city is commonly interpreted as the modern day El Dorado due to the extremely large gold deposit found along the Witwatersrand. The name is attributed
+                         to one or all of three men involved in the establishment of the city. In ten years, the population was 100,000 inhabitants.
+                         A separate city from the late 1970s until the 1990s, Soweto is now part of Johannesburg. Originally an acronym for \"South-Western Townships\", Soweto originated as a collection of settlements on the outskirts of Johannesburg,
+                         populated mostly by native African workers from the gold mining industry. Soweto, although eventually incorporated into Johannesburg, had been separated as a residential area for blacks, who were not permitted to live in Johannesburg proper.
+                         Lenasia is predominantly populated by English-speaking South Africans of Indian descent
+
+    </string>
+
+    <string name="durban">
+                         Durban \(Zulu: eThekwini, from itheku meaning \"bay/lagoon\"\) is the largest city in the South African province of KwaZulu-Natal. Durban\'s metropolitan municipality ranks third among the most populous urban areas in South Africa after Johannesburg and Cape Town.
+                         It is also the second most important manufacturing hub in South Africa after Johannesburg. It forms part of the eThekwini Metropolitan Municipality. Durban is famous for being the busiest port in South Africa. It is also seen as one of the major centres of tourism
+                         because of the city\'s warm subtropical climate and extensive beaches. The municipality, which includes neighbouring towns, has a population of almost 3.5 million, making the combined municipality one of the biggest cities on the Indian Ocean coast of the African continent.
+                         It is the largest city in KwaZulu-Natal which is the 2nd most populous province in South Africa. It has the highest number of dollar millionaires added per year of any South African city with the number rising 200 per cent between 2000 and 2014. In May 2015, Durban was
+                         officially recognised as one of the New 7 Wonders Cities together with Vigan, Doha, La Paz, Havana, Beirut, and Kuala Lumpur.
+    </string>
+
+    <string name="pretoria">
+                         Pretoria is a city in the northern part of Gauteng Province, South Africa. It is one of the country\'s three capital cities, serving as the seat of the executive branch of government \(Cape Town is the legislative capital and Bloemfontein the judicial capital\).
+                         Pretoria has a reputation for being an academic city with three universities and the Council for Scientific and Industrial Research \(CSIR\) located in its eastern suburbs, the city also hosts the South African Bureau of Standards making the city a hub for research.
+                         Pretoria is the central part of the Tshwane Metropolitan Municipality which was formed by the amalgamation of several former local authorities including Centurion and Soshanguve. There have been proposals to change the name of Pretoria itself to Tshwane, and the
+                         proposed name change has caused some controversy.
+                         Pretoria is named after the Voortrekker leader Andries Pretorius, and within South Africa is popularly known as the \"Jacaranda City\" due to the thousands of Jacaranda trees planted in its streets, parks and gardens.
+
+    </string>
+    
     <string name="Protea">
                           Protea Hotel by Marriott Cape Town Waterfront Breakwater Lodge
                           Special OfferAttractions and Adventures "\n"

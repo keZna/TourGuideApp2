@@ -23,10 +23,10 @@ public class PopularActivity extends AppCompatActivity {
         listView = (ListView) findViewById(R.id.top_view);
 
         final ArrayList<Content> contents = new ArrayList<>();
-        contents.add(new Content("Cape Town Central","#1","Cape Town",R.drawable.cape_town_central,R.string.blu));
-        contents.add(new Content("Johannesburg","#2","Johannesburg",R.drawable.johannesburg,R.string.blu));
-        contents.add(new Content("Durban","#3","Durban",R.drawable.durban,R.string.blu));
-        contents.add(new Content("Pretoria","#4","Pretoria",R.drawable.pretoria,R.string.blu));
+        contents.add(new Content("Cape Town Central","#1","Cape Town",R.drawable.cape_town_central,R.string.cape));
+        contents.add(new Content("Johannesburg","#2","Johannesburg",R.drawable.johannesburg,R.string.johannesburg));
+        contents.add(new Content("Durban","#3","Durban",R.drawable.durban,R.string.durban));
+        contents.add(new Content("Pretoria","#4","Pretoria",R.drawable.pretoria,R.string.pretoria));
 
         TopAdapter topAdapter = new TopAdapter(this,contents);
 
