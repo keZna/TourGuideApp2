@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/top"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardElevation="7dp"
+    app:cardUseCompatPadding="true"
+    tools:context=".Display">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#9cff"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/top_image"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/giraffe" />
+
+            <TextView
+                android:id="@+id/top_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/colorAccent"
+                android:padding="5dp"
+                tools:text="#1"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:layout_alignBottom="@+id/top_image"
+                android:layout_alignLeft="@+id/top_image"
+                android:layout_alignStart="@+id/top_image" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/top_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:text="Name"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#000000"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/top_desc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:text="Description"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textStyle="italic" />
+
+            <TextView
+                android:id="@+id/top_full"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:text="Full"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

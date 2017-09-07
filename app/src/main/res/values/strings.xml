@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="jozi">kjzdshzhvjskhh safdkajfsd sadfasfklasfd  asdfsdfasfoi asdfasdf sadfsadfs sdfsad</string>
+
+    <string name="hilton">
+                          Double Tree by Hilton Cape Town - Upper East side
+                          Double tree
+                          R956
+                          View Deal
+                          Expedia.com R956
+                          Hotels.com R956
+                          Trip Adviser R956
+                          View all 5 deals from R956
+                          Double tree R956
+                          Expedia.com R956
+                          Hotels.com R956
+                          Trip Adviser R956
+                          Booking.com
+                          1 290 reviews
+                          #1 Best Value of 1 266 hotels in South Africa
+                          Free Wifi
+                          Restaurant
+    </string>
+
+    <string name="Protea">
+                          Protea Hotel by Marriott Cape Town Waterfront Breakwater Lodge
+                          Special OfferAttractions and Adventures "\n"
+                          Booking.com
+                          R2 013
+                          View Deal
+                          Hotels.comR2 035
+                          Expedia.comR2 035
+                          HotelQuicklyR2 028
+                          View all 5 deals from R2 013
+                          Booking.com R2 013
+                          Hotels.com R2 035
+                          Expedia.com R2 035
+                          HotelQuickly R2 028
+                          Trip Adviser R2 015
+                          987 reviews
+                          #2 Best Value of 1 266 hotels in South Africa
+                          Free Wifi
+                          Restaurant
+    </string>
+
+    <string name="president">
+                          President Hotel
+                          Special Offer BOOK DIRECT FOR BEST DEAL
+                          Booking.com
+                          R1 453
+                          View Deal
+                          Expedia.com R1 467
+                          Hotels.com R1 467
+                          Trip Adviser R1 453
+                          View all 4 deals from R1 453
+                          Booking.com R1 453
+                          Expedia.com R1 467
+                          Hotels.com R1 467
+                          Trip Adviser R1 453
+                          946 reviews
+                          #3 Best Value of 1 266 hotels in South Africa
+                          Free Wifi
+                          Pool
+    </string>
+
+    <string name="blu">
+                          Radisson Blu Hotel, Port Elizabeth
+                          Expedia.com
+                          R1 530
+                          View Deal
+                          Agoda.com R1 530
+                          Hotels.com R1 530
+                          Trip Adviser R1 530
+                          View all 5 deals from R1 530
+                          Expedia.com R1 530
+                          Agoda.com R1 530
+                          Hotels.com R1 530
+                          Trip Adviser R1 530
+                          Booking.com
+                          949 reviews
+                          #4 Best Value of 1 266 hotels in South Africa
+                          Free Wifi
+                          Beachfront
+    </string>
+
+    <string name="bay">
+                         The Bay Hotel
+                         Booking.com
+                         R1 680
+                         View Deal
+                         Hotels.com R1 680
+                         Expedia.com R1 680
+                         Trip Adviser R1 680
+                         View all 4 deals from R1 680
+                         Booking.com R1 680
+                         Hotels.com R1 680
+                         Expedia.com R1 680
+                         Trip Adviser R1 680
+                         1 103 reviews
+                         #5 Best Value of 1 266 hotels in South Africa
+                         Free Wifi
+                         Breakfast included
+    </string>
+</resources>
