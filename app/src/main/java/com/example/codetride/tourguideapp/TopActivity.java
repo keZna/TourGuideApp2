@@ -23,8 +23,8 @@ public class TopActivity extends AppCompatActivity {
 
         final ArrayList<Content> contents = new ArrayList<>();
 
-        contents.add(new Content("Eiffel Towel","#1","Found in Paris",R.drawable.eiffel));
-        contents.add(new Content("Louvre Museum","#2","Found in Germany",R.drawable.louvre));
+        contents.add(new Content("Eiffel Towel","#1","Found in Paris",R.drawable.eiffel,R.string.eiffel));
+        contents.add(new Content("Louvre Museum","#2","Found in Germany",R.drawable.louvre,R.string.louvre));
 
         TopAdapter topAdapter = new TopAdapter(this,contents);
 

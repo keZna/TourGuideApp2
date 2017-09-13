@@ -35,14 +35,29 @@
             android:name=".Gallery"
             android:label="Gallery"
             android:parentActivityName=".MainActivity"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".Gallery1"
             android:label="Viewer"
             android:parentActivityName=".Gallery" />
-        <activity android:name=".Display" />
-        <activity android:name=".Display2" />
-        <activity android:name=".Display3"></activity>
+        <activity
+            android:name=".Display"
+            android:label="Popular Places"
+            android:parentActivityName=".PopularActivity">
+
+        </activity>
+        <activity
+            android:name=".Display2"
+            android:label="Top Places"
+            android:parentActivityName=".TopActivity">
+
+        </activity>
+        <activity
+            android:name=".Display3"
+            android:label="Top Places"
+            android:parentActivityName=".HotelsActivity">
+
+        </activity>
     </application>
 
 </manifest>

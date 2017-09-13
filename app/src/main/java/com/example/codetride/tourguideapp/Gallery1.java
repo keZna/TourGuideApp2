@@ -8,7 +8,6 @@ import android.widget.TextView;
 
 public class Gallery1 extends AppCompatActivity {
 
-    TextView place;
     ImageView imageView;
     Intent intent;
 
@@ -17,13 +16,11 @@ public class Gallery1 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_gallery1);
 
-        place = (TextView) findViewById(R.id.display);
         imageView = (ImageView) findViewById(R.id.gallery1);
 
         intent = getIntent();
 
         Content content = (Content) intent.getSerializableExtra("Gallery");
         imageView.setImageResource(content.getmImageResourceId());
-        place.setText(content.getPlace());
     }
 }

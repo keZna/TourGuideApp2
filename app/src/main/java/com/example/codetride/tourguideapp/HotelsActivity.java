@@ -24,11 +24,11 @@ public class HotelsActivity extends AppCompatActivity {
 
         final ArrayList<Content> contents = new ArrayList<>();
 
-        contents.add(new Content("Doubletree Hotel","#1","Cape Town",R.drawable.double_tree_hotel));
-        contents.add(new Content("Protea Hotel","#2","Cape Town",R.drawable.protea_hotel));
-        contents.add(new Content("President Hotel","#3","Port Elizabeth",R.drawable.president_hotel));
-        contents.add(new Content("Radisson Blu Hotel","#4","Port Elizabeth",R.drawable.radisson_blu_hotel));
-        contents.add(new Content("Bay Hotel","#5","Port Elizabeth",R.drawable.bay_hotel));
+        contents.add(new Content("Doubletree Hotel","#1","Cape Town",R.drawable.double_tree_hotel,R.string.hilton));
+        contents.add(new Content("Protea Hotel","#2","Cape Town",R.drawable.protea_hotel,R.string.Protea));
+        contents.add(new Content("President Hotel","#3","Port Elizabeth",R.drawable.president_hotel,R.string.president));
+        contents.add(new Content("Radisson Blu Hotel","#4","Port Elizabeth",R.drawable.radisson_blu_hotel,R.string.blu));
+        contents.add(new Content("Bay Hotel","#5","Port Elizabeth",R.drawable.bay_hotel,R.string.bay));
 
         TopAdapter topAdapter = new TopAdapter(this,contents);
 

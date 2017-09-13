@@ -26,6 +26,7 @@ public class Display3 extends AppCompatActivity {
         imageView = (ImageView) findViewById(R.id.display_image);
         desc = (TextView) findViewById(R.id.display_desc);
         number = (TextView) findViewById(R.id.display_number);
+        full = (TextView) findViewById(R.id.display_full);
 
         Content content = (Content) intent.getSerializableExtra("Hotel");
 
@@ -33,6 +34,7 @@ public class Display3 extends AppCompatActivity {
         imageView.setImageResource(content.getmImageResourceId());
         desc.setText(content.getShortDesc());
         number.setText(content.getmNumber());
+        full.setText(content.getmFull());
 
     }
 }

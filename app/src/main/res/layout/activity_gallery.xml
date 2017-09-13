@@ -5,7 +5,7 @@
     android:id="@+id/gallery"
     android:numColumns="auto_fit"
     android:gravity="center"
-    android:background="@drawable/believer"
+    android:background="@drawable/blue"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.codetride.tourguideapp.Gallery">

@@ -5,12 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
+    android:background="@drawable/blue"
     tools:context="com.example.codetride.tourguideapp.Display3">
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/appbar"
         android:layout_width="match_parent"
-        android:layout_height="300dp"
+        android:layout_height="350dp"
         android:fitsSystemWindows="true"
         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
 
@@ -29,9 +30,9 @@
                 android:id="@+id/display_image"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                tools:background="@drawable/giraffe"
+                tools:background="@drawable/bay_hotel"
                 android:fitsSystemWindows="true"
-                android:scaleType="centerCrop"
+                android:scaleType="fitXY"
                 app:layout_collapseMode="pin" />
 
             <android.support.v7.widget.Toolbar
@@ -101,10 +102,11 @@
 
                 <TextView
                     android:id="@+id/display_full"
-                    android:layout_gravity="center"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="#000000"
+                    android:typeface="serif"
+                    android:layout_margin="5dp"
                     tools:text="Full"
                     android:textAppearance="?android:attr/textAppearanceSmall" />
             </LinearLayout>
@@ -112,7 +114,5 @@
         </LinearLayout>
 
     </android.support.v4.widget.NestedScrollView>
-
-
 
 </android.support.design.widget.CoordinatorLayout>

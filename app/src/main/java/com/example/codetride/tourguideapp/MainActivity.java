@@ -44,9 +44,9 @@ public class MainActivity extends AppCompatActivity
 
         final ArrayList<Content> contents = new ArrayList<>();
 
-        contents.add(new Content("Top places", R.drawable.double_tree_hotel));
-        contents.add(new Content("Popular Places", R.drawable.protea_hotel));
-        contents.add(new Content("Top Hotels", R.drawable.president_hotel));
+        contents.add(new Content("Top places", R.drawable.eiffel));
+        contents.add(new Content("Popular Places", R.drawable.johannesburg));
+        contents.add(new Content("Top Hotels", R.drawable.protea_hotel));
         ContentAdapter contentAdapter = new ContentAdapter(this, contents);
         listView.setAdapter(contentAdapter);
 
